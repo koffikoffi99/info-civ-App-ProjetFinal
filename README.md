@@ -127,3 +127,5 @@ Backend : Render
 Projet réalisé par [koffi koffi]
 Contact : [koffikoffias23@gmail.com]
 
+lien du projet en ligne : https://mellow-salamander-74a33b.netlify.app/
+
